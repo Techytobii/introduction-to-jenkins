@@ -2,7 +2,7 @@
 
 # Introduction to CI/CD
 
-Continuous Integrstion and Continuous Delivery is a set of best practices and methodologies that revolutionize the software development lifecycle by enhancing efficiency, reliabilty and speed. CI/CD represents a seamless integration of automation and collaboration throughout the devlopment process, aiming to deliver high-quality software consistently and rapidly.
+Continuous Integration and Continuous Delivery is a set of best practices and methodologies that revolutionize the software development lifecycle by enhancing efficiency, reliabilty and speed. CI/CD represents a seamless integration of automation and collaboration throughout the devlopment process, aiming to deliver high-quality software consistently and rapidly.
 
 ****************************************************
 
