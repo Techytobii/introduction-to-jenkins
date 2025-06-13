@@ -9,7 +9,7 @@ Continuous Integration and Continuous Delivery is a set of best practices and me
 
 # WHAT IS JENKINS
 
-Jenkins is widely employed as a crucial CI/CD tool for automating software development processes. Teams utilize Jenkins to automate building, testing, and deploying applications, streamlining the development lifecycle. With Jenkins popelines, developers can execute entire workflows as code, ensuring consistent and reproducible builds.
+Jenkins is widely employed as a crucial CI/CD tool for automating software development processes. Teams utilize Jenkins to automate building, testing, and deploying applications, streamlining the developments lifecycle. With Jenkins popelines, developers can execute entire workflows as code, ensuring consistent and reproducible builds.
 
 # Getting Started With Jenkins
 
