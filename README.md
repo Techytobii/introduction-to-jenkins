@@ -74,3 +74,5 @@ The command below installs Jenkins. It involves importing the Jenkins GPG key fo
 ## JENKINS
 
 ![jenkins](/introduction-to-jenkins/img/jenkins.png)
+
+****************************************************
