@@ -19,60 +19,55 @@ Jenkins is widely employed as a crucial CI/CD tool for automating software devel
 
 *************************************
 
+### Update Package Repositories
 
->> Update package repositories
+![sudo-apt-update](/introduction-to-jenkins/img/sudo-apt-update.png)
 
- ![sudo-apt-update](/introduction-to-jenkins/img/sudo-apt-update.png)
-
-
->> Upgrade package repositories 
+### Upgrade Package Repositories 
 
 ![sudo-apt-upgrade](/introduction-to-jenkins/img/sudo-apt-upgrade.png)
 
 
 *******************************************
 
->> Install JDK
+### Install JDK
 
 ![sudo-apt-install-default-jdk-headless](/introduction-to-jenkins/img/sudo-apt-install-default-jdk-headless.png)
 
 
 ****************************************************
 
+### Install Jenkins 
 
->> Install Jenkins 
-
-The command below installs Jenkins, it involves importing the jenkins GPG key for package verification, adding the Jenkins repository to the system's sources, updating lists,and finally, installing Jenkins through the package manager (apt-get)
+The command below installs Jenkins. It involves importing the Jenkins GPG key for package verification, adding the Jenkins repository to the system's sources, updating package lists, and finally installing Jenkins through the package manager (`apt-get`).
 
 ![sudo-apt-get-install-jenkins](/introduction-to-jenkins/img/sudo-apt-get-install-jenkins.png)
 
 
 ****************************************************
 
-
->> Checked if Jenkins has been installed, Up and Running
+### Check if Jenkins Has Been Installed, Up, and Running
 
 ![sudo-systemctl-status-jenkins](/introduction-to-jenkins/img/sudo-systemctl-status-jenkins.png)
 
 
 **************************************************
 
-
-# Created On the Jenkins instance New Inbound rules for port 8080 in the security group
+### Create New Inbound Rules for Port 8080 in the Security Group
 
 ![port-8080](/introduction-to-jenkins/img/port-8080.png)
 
 
 ***************************************************
 
-# ADDED JENKINS KEY 
+### Add Jenkins Key 
 
 ![added-jkns-key](/introduction-to-jenkins/img/added-jkns-key.png)
 
 
 ****************************************************
 
-# Added Jenkins Repo to Sys
+### Add Jenkins Repository to System
 
 ![added-jkns-repo-2-sys](/introduction-to-jenkins/img/added-jnks-repo-2-sys.png)
 
